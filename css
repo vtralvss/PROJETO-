@@ -8,6 +8,12 @@ body{
 }
 .titulo{
     display: flex;
+    justify-content: center;
+    background-color: bisque;
+    color: rgb(43, 226, 52);
+}
+.lista{
+    display: flex;
     justify-content: space-around;
     background-color: blanchedalmond;
     font-size: 25px;
