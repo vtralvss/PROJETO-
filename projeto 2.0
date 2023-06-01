@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Swort art online</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="principal container">
+        <div>
+            <h1 class="titulo"><i>Projeto 1</i></h1>
+            <a href="pag002.html" class="container_botao" target="_blank" rel="external">
+                <u1 >Kirito</u1></a>
+            <a href="pag003.html" class="container_botao-1"><u1>Asuna</u1></a>
+            <a href="https://www.youtube.com/watch?v=KId6eunoiWk" target="_blank" rel="external" class="container_botao botao_secundario">Acesse</a>
+            </div>
+    </section>
+    
+</body>
+
+</html>
