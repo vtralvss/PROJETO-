@@ -2,6 +2,6 @@
     margin: 0%;
     padding: 0%;
 }
-.kirito{
-    width: 10%;
+.the100{
+    width: 100%;
 }
