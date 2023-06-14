@@ -1,9 +1,10 @@
-*:root {
-    --branco-principal: #FFFFFF;
-    --cinza-principal: #c0c0c0;
-    --botao-azul: #167BF7;
+
+:root {
+    --branco-principal: #dfd1d1;
+    --cinza-principal: #e28080;
+    --botao-azul: #bbb4b4;
     --cor-de-fundo: #00030C;
-    --botao-vermelho: #e50c0c;
+    --botao-vermelho: #d12525;
     
 
 }
@@ -19,8 +20,13 @@ body{
 }
 
 .principal {
-    background-image: url("img/314574.png");
+    background-image: url("the100.jpg");
     background-repeat: no-repeat;
+    margin-top: lem;
+    text-align: center;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center center;
 
 
 }
@@ -41,8 +47,7 @@ body{
 }
 .botao_secundario{
     background-color: transparent;
-    border: 2px solid var(--branco-principal)
-    ;
+    border: 2px solid var(--branco-principal);
 }
 .titulo{
     text-align: center;
