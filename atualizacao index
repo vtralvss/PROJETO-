@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>a melhor serie da netfix</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="principal container">
+        <div>
+        <h1 class="titulo"><i>radioactive</i></h1>
+        <a href="pag002.html" class="container_botao" target="_blank" rel="external">
+            <a href="https://youtu.be/2kjPOUMeo9I" target="_blank" rel="external" class="container__botao botao_secundario">Acesse</a>
+            <u1 >THE 100</u1></a>
+          <a href="pag003.html" class="container__botao-1"><u1></u1></a>
+          <a href="https://youtu.be/AhbcKsZmEEA" target="_blank" rel="external" class="container__botao botao_secundario">Acesse</a>
+        </div>
+    <section>
+        <section class="container  secundario">
+            <img src="img/imagem parte 3.jpg" alt="Um sistema virtual" class="cntainer__secundario">
+            <div class="container__descricao">
+                <p class="descricao__texto">Em um futuro proximo, foi lançado um jogo de realidade virtual em massa para múltiplos jogadores online (VRMMORPG) chamado Sword Art Online, onde se</p>
+                <a href="https://youtu.be/AhbcKsZmEEA" class="container__botao secundario__botao" target="_blank" rel="external"> Intro 1</a>
+            </div>
+            <div class="container__descricao">
+                <p class="descricao__texto">Um ano após o incidente de SAO, Kirito é abordado por seijiro kikuoka do Ministerio do Japão de assuntos internos e comunicações departamento "Divis</p>
+                <a href="https://youtu.be/aDrsItJ_HU4" class="container__botao secundario__botao" target="_blank rel
+                external"></a>
+            </div>
+            <img src="img/sao gun.webp" alt="personagens" class="secundario__botao secundario__botao" target="_blank" referrerpolicy="external"
+        </section>
+        
+</body>
+
+</html>
