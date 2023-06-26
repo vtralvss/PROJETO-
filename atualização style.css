@@ -1,0 +1,80 @@
+:root {
+    --branco-principal: #dfd1d1;
+    --cinza-principal: #e28080;
+    --botao-azul: #bbb4b4;
+    --cor-de-fundo: #00030C;
+    --botao-vermelho: #d12525;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.principal {
+    background-image: url("the100.jpg");
+    background-repeat: no-repeat;
+    margin-top: 1em;
+    text-align: center;
+
+}
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.container__botao {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+    text-align: center;
+    margin-bottom: 1em;
+    text-decoration: none;
+}
+.botao_secundario{
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+}
+.titulo{
+    text-align: center;
+    color: var(--branco-principal);
+    margin: 1em 0 1em 0;
+}
+.container_botao-1{
+    background-color: var(--botao-vermelho);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+    text-align: center;
+    margin-bottom: 1em;
+    text-decoration: none;
+}
+.container__caixa{
+    margin: 0 8em;
+}
+.container__secundario{
+    width: 90%;
+    border-radius: 10%;
+}
+.secundario{
+    margin: 1em;
+}
+.secundario__botao{
+    display: inline-block;
+    margin: 1em 5em;
+    background-color: var(--botao-rosa);
+}
+.secundario__imagem{
+    width: 102%;
+    border-radius: 10%;
+}
+.container__descricao{
+    margin: center;
+    text-align: center;
+    padding: 1em;
+}
