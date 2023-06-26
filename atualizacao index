@@ -17,12 +17,12 @@
           <a href="pag003.html" class="container__botao-1"><u1></u1></a>
           <a href="https://youtu.be/AhbcKsZmEEA" target="_blank" rel="external" class="container__botao botao_secundario">Acesse</a>
         </div>
-    <section>
-        <section class="container  secundario">
-            <img src="img/imagem parte 3.jpg" alt="Um sistema virtual" class="cntainer__secundario">
+      </section>
+        <section class="container__secundario">
+            <img src="the-100.webp" alt="Um sistema virtual" class="container__secundario">
             <div class="container__descricao">
-                <p class="descricao__texto">Em um futuro proximo, foi lançado um jogo de realidade virtual em massa para múltiplos jogadores online (VRMMORPG) chamado Sword Art Online, onde se</p>
-                <a href="https://youtu.be/AhbcKsZmEEA" class="container__botao secundario__botao" target="_blank" rel="external"> Intro 1</a>
+                <p class="descricao__texto">Tudo começou com 100 jovens que foram jogados do céu para sobreviverem na Terra. O ‘Povo do Céu’ são gerações de nascidos na Arca após a Terra ser dizimada. E com a superlotação na Arca e falta de recursos, 100 jovens prisioneiros menores de idade são enviados à Terra</p>
+                <a href="https://youtu.be/B2OrmjsFrVU" class="container__botao secundario__botao" target="_blank" rel="external"> Intro 1</a>
             </div>
             <div class="container__descricao">
                 <p class="descricao__texto">Um ano após o incidente de SAO, Kirito é abordado por seijiro kikuoka do Ministerio do Japão de assuntos internos e comunicações departamento "Divis</p>
