@@ -22,16 +22,27 @@
             <img src="the-100.webp" alt="Um sistema virtual" class="container__secundario">
             <div class="container__descricao">
                 <p class="descricao__texto">Tudo começou com 100 jovens que foram jogados do céu para sobreviverem na Terra. O ‘Povo do Céu’ são gerações de nascidos na Arca após a Terra ser dizimada. E com a superlotação na Arca e falta de recursos, 100 jovens prisioneiros menores de idade são enviados à Terra</p>
-                <a href="https://youtu.be/B2OrmjsFrVU" class="container__botao secundario__botao" target="_blank" rel="external"> Intro 1</a>
+                <a href="https://youtu.be/B2OrmjsFrVU" class="container__botao secundario__botao" target="_blank" rel="external"> TEMPORADAS</a>
             </div>
             <div class="container__descricao">
-                <p class="descricao__texto">Um ano após o incidente de SAO, Kirito é abordado por seijiro kikuoka do Ministerio do Japão de assuntos internos e comunicações departamento "Divis</p>
+                <p class="descricao__texto">A segunda temporada começa logo após os conflitos da temporada anterior, com o grupo principal dividido e desesperado para reunir. Com os 100 e os sobreviventes da Arca buscando um novo lar em um mundo bonito e perigoso, eles são confrontados com novos problemas e dilemas morais ao tentar recriar uma sociedade</p>
                 <a href="https://youtu.be/aDrsItJ_HU4" class="container__botao secundario__botao" target="_blank rel
                 external"></a>
             </div>
-            <img src="img/sao gun.webp" alt="personagens" class="secundario__botao secundario__botao" target="_blank" referrerpolicy="external"
+            <img src="2temporada.jpg" alt="personagens" class="secundario__botao secundario__botao" target="_blank" referrerpolicy="external"
         </section>
-        
+        <section class="temporada">
+            <u1 class="temporada__lista">
+                <li>
+                    <h3> class"lista__item>temporada 1</h3>
+                    <img class="temporada 1" src="the-100.webp" alt="icone-2">
+                </li>
+                <li>
+                    <h3> class="lista_item>temporada 2</h3>
+                    <img class="temporada 2" src="2temporada.jpg" alt="icone-3">
+                </li>
+            </u1>
+        </section> 
 </body>
 
 </html>
