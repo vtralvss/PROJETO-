@@ -1,9 +1,11 @@
 :root {
     --branco-principal: #dfd1d1;
-    --cinza-principal: #e28080;
-    --botao-azul: #bbb4b4;
+    --cinza-secundario: #C0C0C0
+    --botao-azul: #1678f7;
     --cor-de-fundo: #00030C;
     --botao-vermelho: #d12525;
+    --botao-rosa: #f529d6
+    --botao-efeito-cor: #1ed35d
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -18,7 +20,9 @@ body{
     background-repeat: no-repeat;
     margin-top: 1em;
     text-align: center;
-
+    min-height: 100%;
+    background-size: cover;
+    background-position: center center;
 }
 .container {
     height: 100vh;
@@ -77,4 +81,35 @@ body{
     margin: center;
     text-align: center;
     padding: 1em;
+}
+.temporada__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.temporada{
+    text-align: center;
+    font-size: 24px;
+}
+.temporada-3{
+    margin: 0em 0em 0.5em 1em;
+    border-radius: 10%;
+}
+.temporada-4{
+    margin: 0.5em 1em 0.5em 3em;
+    border-radius: 10%;
+}
+.tempotrada-5{
+    border-radius: 10%;
+    margin: 0.5em 1em 0.5em 3em;
+}
+.container__botao:hover{
+    background-color: var(--botao-efeito-cor);
+
+}
+.container__botao-1:hover{
+    background-color: var(--botao-efeito-cor);
+}
+.lista__item{
+    margin: 0 1em 1em 2em;
 }
